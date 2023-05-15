@@ -1,4 +1,8 @@
-# langchain-ts-starter
+# langchain-ts-azureopenai-starter
+
+forked bumped langchain
+https://github.com/domeccleston/langchain-ts-starter
+https://js.langchain.com/docs/api/llms_openai/classes/OpenAI
 
 Boilerplate to get started quickly with the [Langchain Typescript SDK](https://github.com/hwchase17/langchainjs).
 
