@@ -28,7 +28,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "langchain": "^0.0.75",
+    "langchain": "^0.0.78",
     "tsup": "^6.7.0"
   },
   "devDependencies": {

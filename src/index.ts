@@ -1,5 +1,6 @@
 import * as dotenv from "dotenv";
 import { OpenAI } from "langchain/llms/openai";
+import { TextSplitter } from "langchain/text_splitter";
 
 dotenv.config();
 
@@ -9,6 +10,9 @@ const model = new OpenAI({
   maxTokens: 80,
   maxRetries: 3,
 });
+
+await TextSplitter
+await reduce
 
 const res = await model.call(
   "What's a good idea for an application to build with GPT-3?"
